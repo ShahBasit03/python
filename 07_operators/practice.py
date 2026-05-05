@@ -1,0 +1,5 @@
+# name=input("ENter your name:")
+# age = input("ENTER YOUR AGE:")
+# profession=input("enter your proffesion:")
+# print(f"hello {name}, you are {age} years old and {profession} is my proffesion")
+print("this is a tab \t character")

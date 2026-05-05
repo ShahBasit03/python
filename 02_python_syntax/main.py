@@ -1,0 +1,5 @@
+print("Hello Basit")
+print("I am good ")
+print("How are you?")
+print(3)
+print("My name is giyaaan")
