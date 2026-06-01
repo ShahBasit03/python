@@ -1,0 +1,10 @@
+# def is_greater_than_9(x):
+#   if x>9:
+#     return True
+#   else:
+#     return False  
+
+a=[1,2,3,4,5,6,44,55,66,22,11,9]    
+# new=list(filter(is_greater_than_9,a))
+new=list(filter(lambda x: x>9,a))
+print(new)

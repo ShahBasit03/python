@@ -1,0 +1,4 @@
+weight = 0.5 
+x = 25 # Input Age
+y_hat = weight * x  # Prediction: 12.
+print(y_hat)
