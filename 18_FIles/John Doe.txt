@@ -1,0 +1,3 @@
+
+john doe is a nice guy and he lives in NYC and he works in python .His favourite library is pandas
+john doe initiaLLY lived in Phoenix.He is a very nice guy. 
